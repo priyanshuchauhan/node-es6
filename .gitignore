@@ -1,0 +1,14 @@
+# Dependency directory
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Build folder
+dist
+
+# intellij
+.idea
+
+#yarn
+yarn.lock
